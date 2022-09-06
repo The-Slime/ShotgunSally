@@ -808,6 +808,65 @@
       },
       "BackupGroup": null
     },
+	{
+      "Type": "Firearm",
+      "IconName": "TNH_Icon_magazine_fed",
+      "TokenCost": 6,
+      "TokenCostLimited": 6,
+      "MinLevelAppears": 3,
+      "MaxLevelAppears": 99,
+      "SpawnsInSmallCase": false,
+      "SpawnsInLargeCase": false,
+      "PrimaryGroup": {
+        "Category": "Firearm",
+        "Rarity": 0.5,
+        "RequiredQuest": null,
+        "ItemsToSpawn": 1,
+        "MinAmmoCapacity": 0,
+        "MaxAmmoCapacity": 10,
+        "NumMagsSpawned": 3,
+        "NumClipsSpawned": 3,
+        "NumRoundsSpawned": 6,
+        "SpawnMagAndClip": true,
+        "BespokeAttachmentChance": 0.5,
+        "IsCompatibleMagazine": false,
+        "AutoPopulateGroup": true,
+        "ForceSpawnAllSubPools": false,
+        "IDOverride": [],
+        "Eras": [
+          "Modern",
+		  "PostWar",
+		  "Futuristic"
+        ],
+        "Sets": [
+          "Real",
+          "GroundedFictional",
+		  "SciFiFictional"
+        ],
+        "Sizes": [],
+        "Actions": [
+		"Automatic"
+		],
+        "Modes": [],
+        "ExcludedModes": [],
+        "FeedOptions": [
+		"BoxMag"
+		],
+        "MountsAvailable": [],
+        "RoundPowers": [
+			"Shotgun"
+		],
+        "Features": [],
+        "MeleeStyles": [],
+        "MeleeHandedness": [],
+        "MountTypes": [],
+        "PowerupTypes": [],
+        "ThrownTypes": [],
+        "ThrownDamageTypes": [],
+        "SubGroups": null
+      },
+      "BackupGroup": null
+    },
   ],
   "Levels": [
     {
