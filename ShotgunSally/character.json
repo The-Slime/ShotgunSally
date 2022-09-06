@@ -1,6 +1,6 @@
 {
   "DisplayName": "Shotgun Sally",
-  "Description": "For those who prefer close encounters\nSpawns with a break action shotgun, a backpack, a melee weapon and a health powerup\n\nUses Boomstick Progression"
+  "Description": "For those who prefer close encounters\nSpawns with a break action shotgun, a backpack, a melee weapon and a health powerup\n\nUses Boomstick Progression",
   "CharacterGroup": 0,
   "TableID": "ShotgunSally",
   "StartingTokens": 3,
@@ -317,7 +317,7 @@
       "MeleeStyles": [],
       "MeleeHandedness": [],
       "MountTypes": [],
-      "PowerupTypes": Health,
+      "PowerupTypes": "Health",
       "ThrownTypes": [],
       "ThrownDamageTypes": [],
       "SubGroups": []
@@ -894,7 +894,7 @@
         "AutoPopulateGroup": true,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-			"RailedBarrelExtenderSingle",
+			"RailedBarrelExtenderSingle"
 		],
         "Eras": [],
         "Sets": [],
@@ -1161,7 +1161,7 @@
         "SubGroups": null
       },
       "BackupGroup": null
-    },
+    }
 	
   ],
   "Levels": [
