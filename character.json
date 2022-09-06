@@ -646,8 +646,8 @@
       "MaxSupplyPoints": 1,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -656,7 +656,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -725,8 +725,8 @@
       "MaxSupplyPoints": 2,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -735,7 +735,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -828,8 +828,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -838,7 +838,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -955,8 +955,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -965,7 +965,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1082,8 +1082,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1092,7 +1092,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1211,8 +1211,8 @@
       "MaxSupplyPoints": 1,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1221,7 +1221,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1338,8 +1338,8 @@
       "MaxSupplyPoints": 2,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1348,7 +1348,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1465,8 +1465,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1475,7 +1475,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1592,8 +1592,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1602,7 +1602,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1719,8 +1719,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1729,7 +1729,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1846,8 +1846,8 @@
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
-      "MinPanels": 1,
-      "MaxPanels": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
       "MinBoxesSpawned": 2,
       "MaxBoxesSpawned": 4,
       "MinTokensPerSupply": 1,
@@ -1856,7 +1856,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        "MagDuplicator",
+        
         "Recycler"
       ],
       "TakeChallenge": {
