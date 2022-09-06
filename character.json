@@ -751,6 +751,63 @@
       },
       "BackupGroup": null
     },
+	{
+      "Type": "Firearm",
+      "IconName": "TNH_Icon_automatic_tube_fed_shotgun",
+      "TokenCost": 5,
+      "TokenCostLimited": 5,
+      "MinLevelAppears": 3,
+      "MaxLevelAppears": 99,
+      "SpawnsInSmallCase": false,
+      "SpawnsInLargeCase": false,
+      "PrimaryGroup": {
+        "Category": "Firearm",
+        "Rarity": 0.5,
+        "RequiredQuest": null,
+        "ItemsToSpawn": 1,
+        "MinAmmoCapacity": 7,
+        "MaxAmmoCapacity": 10,
+        "NumMagsSpawned": 3,
+        "NumClipsSpawned": 3,
+        "NumRoundsSpawned": 6,
+        "SpawnMagAndClip": false,
+        "BespokeAttachmentChance": 0.5,
+        "IsCompatibleMagazine": false,
+        "AutoPopulateGroup": true,
+        "ForceSpawnAllSubPools": false,
+        "IDOverride": [],
+        "Eras": [
+          "Modern",
+		  "PostWar"
+        ],
+        "Sets": [
+          "Real",
+          "GroundedFictional"
+        ],
+        "Sizes": [],
+        "Actions": [
+		"Automatic"
+		],
+        "Modes": [],
+        "ExcludedModes": [],
+        "FeedOptions": [
+		"InternalMag"
+		],
+        "MountsAvailable": [],
+        "RoundPowers": [
+			"Shotgun"
+		],
+        "Features": [],
+        "MeleeStyles": [],
+        "MeleeHandedness": [],
+        "MountTypes": [],
+        "PowerupTypes": [],
+        "ThrownTypes": [],
+        "ThrownDamageTypes": [],
+        "SubGroups": null
+      },
+      "BackupGroup": null
+    },
   ],
   "Levels": [
     {
