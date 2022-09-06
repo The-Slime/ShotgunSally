@@ -317,7 +317,7 @@
       "MeleeStyles": [],
       "MeleeHandedness": [],
       "MountTypes": [],
-      "PowerupTypes": "Health",
+      "PowerupTypes": ["Health"],
       "ThrownTypes": [],
       "ThrownDamageTypes": [],
       "SubGroups": []
