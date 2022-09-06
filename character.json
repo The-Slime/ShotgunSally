@@ -599,7 +599,7 @@
         "MaxAmmoCapacity": 4,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
-        "NumRoundsSpawned": 8,
+        "NumRoundsSpawned": 6,
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
@@ -619,6 +619,61 @@
         "Sizes": [],
         "Actions": [
 		"BreakAction"
+		],
+        "Modes": [],
+        "ExcludedModes": [],
+        "FeedOptions": [],
+        "MountsAvailable": [],
+        "RoundPowers": [
+			"Shotgun"
+		],
+        "Features": [],
+        "MeleeStyles": [],
+        "MeleeHandedness": [],
+        "MountTypes": [],
+        "PowerupTypes": [],
+        "ThrownTypes": [],
+        "ThrownDamageTypes": [],
+        "SubGroups": null
+      },
+      "BackupGroup": null
+    },
+	{
+      "Type": "Firearm",
+      "IconName": "TNH_Icon_LeverActionShotgunIcon",
+      "TokenCost": 3,
+      "TokenCostLimited": 3,
+      "MinLevelAppears": 1,
+      "MaxLevelAppears": 2,
+      "SpawnsInSmallCase": false,
+      "SpawnsInLargeCase": false,
+      "PrimaryGroup": {
+        "Category": "Firearm",
+        "Rarity": 0.5,
+        "RequiredQuest": null,
+        "ItemsToSpawn": 1,
+        "MinAmmoCapacity": 5,
+        "MaxAmmoCapacity": 5,
+        "NumMagsSpawned": 3,
+        "NumClipsSpawned": 3,
+        "NumRoundsSpawned": 6,
+        "SpawnMagAndClip": false,
+        "BespokeAttachmentChance": 0.5,
+        "IsCompatibleMagazine": false,
+        "AutoPopulateGroup": true,
+        "ForceSpawnAllSubPools": false,
+        "IDOverride": [],
+        "Eras": [
+          "WildWest",
+          "Modern"
+        ],
+        "Sets": [
+          "Real",
+          "GroundedFictional"
+        ],
+        "Sizes": [],
+        "Actions": [
+		"LeverAction"
 		],
         "Modes": [],
         "ExcludedModes": [],
