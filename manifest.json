@@ -1,5 +1,14 @@
+{"guid":"h3vr.tnhtweaker.shotgunsally",
+"version":"0.1.0",
+"require":"0.4.3",
+"dependencies":{"h3vr.tnhtweaker.deli":"1.7.7"},
+"name":"Shotgun Sally",
+"description":"TnH character exclusively using shotguns.",
+"authors":["Liz"],
+"assets":
 {
-  "guid": "liz_tnh_shotgun_sally",
-  "version": "0.1",
-  "require": "0.4.3"
+"patcher":{},
+"setup":{"ShotgunSally/":"h3vr.tnhtweaker.shotgunsally:character"},
+"runtime":{}
+}
 }
