@@ -765,7 +765,7 @@
         "Rarity": 0.5,
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
-        "MinAmmoCapacity": 7,
+        "MinAmmoCapacity": 5,
         "MaxAmmoCapacity": 10,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
@@ -786,12 +786,14 @@
         ],
         "Sizes": [],
         "Actions": [
-		"Automatic"
+		"Automatic",
+		"Revolver"
 		],
         "Modes": [],
         "ExcludedModes": [],
         "FeedOptions": [
-		"InternalMag"
+		"InternalMag",
+		"BreachLoad"
 		],
         "MountsAvailable": [],
         "RoundPowers": [
