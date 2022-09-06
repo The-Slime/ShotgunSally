@@ -1244,7 +1244,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1371,7 +1371,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
@@ -1881,7 +1881,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
@@ -2008,7 +2008,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
@@ -2135,7 +2135,7 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
