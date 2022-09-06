@@ -1424,7 +1424,7 @@
         },
         {
           "Encryptions": [
-            "Recursive"
+            "Agile"
           ],
           "MinTargets": 2,
           "MaxTargets": 2,
@@ -1503,7 +1503,7 @@
       "HoldPhases": [
         {
           "Encryptions": [
-            "Recursive"
+            "Agile"
           ],
           "MinTargets": 3,
           "MaxTargets": 3,
@@ -1759,7 +1759,7 @@
       "HoldPhases": [
         {
           "Encryptions": [
-            "Recursive"
+            "Agile"
           ],
           "MinTargets": 3,
           "MaxTargets": 3,
