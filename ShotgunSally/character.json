@@ -1,8 +1,8 @@
 {
   "DisplayName": "Shotgun Sally",
-  "Description": "For those who prefer close encounters.\nSpawns with a break action shotgun, a backpack, a melee weapon and a health powerup.\n\nUses Boomstick Progression."
+  "Description": "For those who prefer close encounters\nSpawns with a break action shotgun, a backpack, a melee weapon and a health powerup\n\nUses Boomstick Progression"
   "CharacterGroup": 0,
-  "TableID": "Shotgun Sally",
+  "TableID": "ShotgunSally",
   "StartingTokens": 3,
   "ForceAllAgentWeapons": false,
   "ForceDisableOutfitFunctionality": true,
