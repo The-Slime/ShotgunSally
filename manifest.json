@@ -8,7 +8,7 @@
 "assets":
 {
 "patcher":{},
-"setup":{"ShotgunSally/":"h3vr.tnhtweaker.deli:character"},
+"setup":{"h3vr.tnhtweaker.deli:character"},
 "runtime":{}
 }
 }
