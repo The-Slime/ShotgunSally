@@ -1239,8 +1239,8 @@
             "Static"
           ],
           "MinTargets": 3,
-          "MaxTargets": 5,
-          "MinTargetsLimited": 3,
+          "MaxTargets": 4,
+          "MinTargetsLimited": 2,
           "MaxTargetsLimited": 3,
           "EnemyType": [
             "M_Swat_Guard"
