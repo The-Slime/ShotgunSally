@@ -1,15 +1,10 @@
-{"guid":"h3vr.tnhtweaker.shotgunsally",
-"version_number":"0.5.1",
-"require":"0.4.3",
-"dependencies":["devyndamonster-TakeAndHoldTweaker-1.7.7"],
-"name":"Shotgun_Sally",
-"description":"TnH character exclusively using shotguns",
-"authors":["Liz"],
-"website_url":"https://github.com/The-Slime/ShotgunSally",
-"assets":
 {
-"patcher":{},
-"setup":{"ShotgunSally/":"h3vr.tnhtweaker.deli:character"},
-"runtime":{}
-}
+    "name": "ShotgunSally",
+    "version_number": "0.6.0",
+    "website_url": "https://github.com/The-Slime/ShotgunSally",
+    "description": "TnH character all about shotguns",
+    "dependencies": [
+        "DeliCollective-Deli-0.4.3",
+        "devyndamonster-TakeAndHoldTweaker-1.7.7"
+    ]
 }
