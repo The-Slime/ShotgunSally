@@ -1,6 +1,6 @@
 {
     "name": "ShotgunSally",
-    "version_number": "0.6.2",
+    "version_number": "0.7.0",
     "website_url": "https://github.com/The-Slime/ShotgunSally",
     "description": "TnH character all about shotguns",
     "dependencies": [

@@ -46,13 +46,15 @@
     "NumClipsSpawned": 3,
     "NumRoundsSpawned": 8,
     "SpawnMagAndClip": false,
-    "BespokeAttachmentChance": 0.0,
+    "BespokeAttachmentChance": 0.5,
     "IsCompatibleMagazine": false,
     "AutoPopulateGroup": true,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [],
     "Eras": [],
-    "Sets": [],
+    "Sets": [
+      "Real"
+    ],
     "Sizes": [],
     "Actions": [],
     "Modes": [],
@@ -61,17 +63,17 @@
     "MountsAvailable": [],
     "RoundPowers": [],
     "Features": [
-		"Reflex"
-	],
+      "Reflex"
+    ],
     "MeleeStyles": [],
     "MeleeHandedness": [],
     "MountTypes": [
-		"Picatinny"
-	],
-    "PowerupTypes": null,
+      "Picatinny"
+    ],
+    "PowerupTypes": [],
     "ThrownTypes": [],
     "ThrownDamageTypes": [],
-    "SubGroups": []
+    "SubGroups": null
   },
   "PrimaryWeapon": {
     "PrimaryGroup": {
@@ -894,7 +896,7 @@
         "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
-			"RailedBarrelExtenderSingle"
+			"RailedBarrelExtenderMiniQuad"
 		],
         "Eras": [],
         "Sets": [],
@@ -955,7 +957,9 @@
 		],
         "MeleeStyles": [],
         "MeleeHandedness": [],
-        "MountTypes": [],
+        "MountTypes": [
+			"Picatinny"
+		],
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
@@ -1002,7 +1006,9 @@
 		],
         "MeleeStyles": [],
         "MeleeHandedness": [],
-        "MountTypes": [],
+        "MountTypes": [
+			"Picatinny"
+		],
         "PowerupTypes": [],
         "ThrownTypes": [],
         "ThrownDamageTypes": [],
