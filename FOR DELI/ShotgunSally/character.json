@@ -92,7 +92,7 @@
       "AutoPopulateGroup": false,
       "ForceSpawnAllSubPools": false,
       "IDOverride": [
-		"IZh18_20g"
+		"IZh18_12g_Short"
 	  ],
       "Eras": [],
       "Sets": [],
@@ -445,9 +445,11 @@
       "SpawnMagAndClip": false,
       "BespokeAttachmentChance": 0.5,
       "IsCompatibleMagazine": false,
-      "AutoPopulateGroup": true,
+      "AutoPopulateGroup": false,
       "ForceSpawnAllSubPools": false,
-      "IDOverride": [],
+      "IDOverride": [
+		"BayonetLeeEnfield"
+	  ],
       "Eras": [
         "WW1",
         "WW2",
@@ -605,9 +607,15 @@
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
-        "AutoPopulateGroup": true,
+        "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
-        "IDOverride": [],
+        "IDOverride": [
+			"BreakActionShorty",
+			"DT11",
+			"DT11Shorty",
+			"FourLetterWord",
+			"HammerlessLong"
+		],
         "Eras": [
           "WW2",
           "PostWar",
@@ -654,8 +662,8 @@
         "Rarity": 0.5,
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
-        "MinAmmoCapacity": 5,
-        "MaxAmmoCapacity": 5,
+        "MinAmmoCapacity": 0,
+        "MaxAmmoCapacity": 999,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
         "NumRoundsSpawned": 6,
@@ -665,10 +673,7 @@
         "AutoPopulateGroup": true,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [],
-        "Eras": [
-          "WildWest",
-          "Modern"
-        ],
+        "Eras": [],
         "Sets": [
           "Real",
           "GroundedFictional"
@@ -679,7 +684,9 @@
 		],
         "Modes": [],
         "ExcludedModes": [],
-        "FeedOptions": [],
+        "FeedOptions": [
+			"InternalMag"
+		],
         "MountsAvailable": [],
         "RoundPowers": [
 			"Shotgun"
@@ -709,8 +716,8 @@
         "Rarity": 0.5,
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
-        "MinAmmoCapacity": 5,
-        "MaxAmmoCapacity": 8,
+        "MinAmmoCapacity": 0,
+        "MaxAmmoCapacity": 999,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
         "NumRoundsSpawned": 6,
@@ -720,15 +727,8 @@
         "AutoPopulateGroup": true,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [],
-        "Eras": [
-          "TurnOfTheCentury",
-          "Modern",
-		  "PostWar"
-        ],
-        "Sets": [
-          "Real",
-          "GroundedFictional"
-        ],
+        "Eras": [],
+        "Sets": [],
         "Sizes": [],
         "Actions": [
 		"PumpAction"
@@ -767,7 +767,7 @@
         "Rarity": 0.5,
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
-        "MinAmmoCapacity": 5,
+        "MinAmmoCapacity": 0,
         "MaxAmmoCapacity": 10,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
@@ -778,14 +778,8 @@
         "AutoPopulateGroup": true,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [],
-        "Eras": [
-          "Modern",
-		  "PostWar"
-        ],
-        "Sets": [
-          "Real",
-          "GroundedFictional"
-        ],
+        "Eras": [],
+        "Sets": [],
         "Sizes": [],
         "Actions": [
 		"Automatic",
@@ -794,8 +788,7 @@
         "Modes": [],
         "ExcludedModes": [],
         "FeedOptions": [
-		"InternalMag",
-		"BreachLoad"
+		"InternalMag"
 		],
         "MountsAvailable": [],
         "RoundPowers": [
@@ -827,7 +820,7 @@
         "RequiredQuest": null,
         "ItemsToSpawn": 1,
         "MinAmmoCapacity": 0,
-        "MaxAmmoCapacity": 10,
+        "MaxAmmoCapacity": 999,
         "NumMagsSpawned": 3,
         "NumClipsSpawned": 3,
         "NumRoundsSpawned": 6,
@@ -837,16 +830,8 @@
         "AutoPopulateGroup": true,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [],
-        "Eras": [
-          "Modern",
-		  "PostWar",
-		  "Futuristic"
-        ],
-        "Sets": [
-          "Real",
-          "GroundedFictional",
-		  "SciFiFictional"
-        ],
+        "Eras": [],
+        "Sets": [],
         "Sizes": [],
         "Actions": [
 		"Automatic"
