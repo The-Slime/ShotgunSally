@@ -1228,7 +1228,7 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Guard",
+        "EnemyType": "W_Grey_Patrol",
         "NumTurrets": 0,
         "NumGuards": 2,
         "IFFUsed": 1
@@ -1243,9 +1243,9 @@
           "MinTargetsLimited": 2,
           "MaxTargetsLimited": 3,
           "EnemyType": [
-            "M_Swat_Guard"
+            "W_Grey_Riflewiener"
           ],
-          "LeaderType": "M_Swat_Scout",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 2,
           "MaxEnemies": 2,
           "MaxEnemiesAlive": 4,
@@ -1261,7 +1261,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Guard",
+        "EnemyType": "W_Grey_Patrol",
         "NumTurrets": 0,
         "NumGuards": 2,
         "IFFUsed": 1
@@ -1269,9 +1269,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_Scout"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_Scout",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 0,
           "MaxPatrols": 0,
           "MaxPatrolsLimited": 0,
@@ -1307,7 +1307,7 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Guard",
+        "EnemyType": "W_Grey_Patrol",
         "NumTurrets": 0,
         "NumGuards": 3,
         "IFFUsed": 1
@@ -1322,9 +1322,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Scout"
+            "W_Grey_Riflewiener"
           ],
-          "LeaderType": "M_Swat_Ranger",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 2,
           "MaxEnemies": 2,
           "MaxEnemiesAlive": 4,
@@ -1346,9 +1346,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Scout"
+            "W_Grey_Grenadier"
           ],
-          "LeaderType": "M_Swat_Ranger",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1364,7 +1364,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Guard",
+        "EnemyType": "W_Grey_Patrol",
         "NumTurrets": 0,
         "NumGuards": 3,
         "IFFUsed": 1
@@ -1372,9 +1372,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_Scout"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_Ranger",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 2,
           "MaxPatrols": 2,
           "MaxPatrolsLimited": 1,
@@ -1410,7 +1410,7 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Ranger",
+        "EnemyType": "W_Grey_Patrol",
         "NumTurrets": 0,
         "NumGuards": 4,
         "IFFUsed": 1
@@ -1425,9 +1425,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Shield"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Shield",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 2,
           "MaxEnemies": 2,
           "MaxEnemiesAlive": 4,
@@ -1449,9 +1449,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Riflewiener"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 2,
           "MaxEnemies": 2,
           "MaxEnemiesAlive": 4,
@@ -1468,14 +1468,14 @@
           "Encryptions": [
             "Agile"
           ],
-          "MinTargets": 2,
-          "MaxTargets": 2,
+          "MinTargets": 3,
+          "MaxTargets": 3,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Scout"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1491,7 +1491,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Ranger",
+        "EnemyType": "W_Grey_Patrol",
         "NumTurrets": 0,
         "NumGuards": 4,
         "IFFUsed": 1
@@ -1499,9 +1499,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_Shield"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_Ranger",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 3,
           "MaxPatrols": 2,
           "MaxPatrolsLimited": 2,
@@ -1537,7 +1537,7 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 6,
         "IFFUsed": 1
@@ -1552,9 +1552,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Sniper"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1576,9 +1576,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_SpecOps"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_SpecOps",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1595,14 +1595,14 @@
           "Encryptions": [
             "Agile"
           ],
-          "MinTargets": 3,
-          "MaxTargets": 3,
+          "MinTargets": 4,
+          "MaxTargets": 4,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Riflewiener"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Heavy",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1618,7 +1618,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 6,
         "IFFUsed": 1
@@ -1626,9 +1626,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_SpecOps"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_SpecOps",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 3,
           "MaxPatrols": 3,
           "MaxPatrolsLimited": 2,
@@ -1664,7 +1664,7 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 8,
         "IFFUsed": 1
@@ -1679,9 +1679,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Markswiener"
+            "W_Grey_Machinegunner"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1703,9 +1703,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Shield"
+            "W_Grey_Machinegunner"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1727,9 +1727,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Breacher"
+            "W_Grey_Flamewiener"
           ],
-          "LeaderType": "M_Swat_Heavy",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1745,7 +1745,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 8,
         "IFFUsed": 1
@@ -1753,9 +1753,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_Riflewiener"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 3,
           "MaxPatrols": 4,
           "MaxPatrolsLimited": 2,
@@ -1773,7 +1773,7 @@
   ],
   "LevelsEndless": [
     {
-      "NumOverrideTokensForHold": 2,
+      "NumOverrideTokensForHold": 3,
       "MinSupplyPoints": 1,
       "MaxSupplyPoints": 1,
       "MinConstructors": 1,
@@ -1793,7 +1793,316 @@
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Patrol",
+        "NumTurrets": 0,
+        "NumGuards": 2,
+        "IFFUsed": 1
+      },
+      "HoldPhases": [
+        {
+          "Encryptions": [
+            "Static"
+          ],
+          "MinTargets": 3,
+          "MaxTargets": 4,
+          "MinTargetsLimited": 2,
+          "MaxTargetsLimited": 3,
+          "EnemyType": [
+            "W_Grey_Riflewiener"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 2,
+          "MaxEnemies": 2,
+          "MaxEnemiesAlive": 4,
+          "MaxDirections": 1,
+          "SpawnCadence": 20.0,
+          "ScanTime": 30.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        }
+      ],
+      "SupplyChallenge": {
+        "TurretType": "SMG",
+        "EnemyType": "W_Grey_Patrol",
+        "NumTurrets": 0,
+        "NumGuards": 2,
+        "IFFUsed": 1
+      },
+      "Patrols": [
+        {
+          "EnemyType": [
+            "W_Grey_Patrol"
+          ],
+          "LeaderType": "W_Grey_Patrol",
+          "PatrolSize": 0,
+          "MaxPatrols": 0,
+          "MaxPatrolsLimited": 0,
+          "PatrolCadence": 0.0,
+          "PatrolCadenceLimited": 0.0,
+          "IFFUsed": 1,
+          "SwarmPlayer": false,
+          "AssualtSpeed": "Walking",
+          "IsBoss": false,
+          "DropChance": 0.65,
+          "DropsHealth": true
+        }
+      ]
+    },
+    {
+      "NumOverrideTokensForHold": 4,
+      "MinSupplyPoints": 2,
+      "MaxSupplyPoints": 2,
+      "MinConstructors": 1,
+      "MaxConstructors": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
+      "MinBoxesSpawned": 2,
+      "MaxBoxesSpawned": 4,
+      "MinTokensPerSupply": 1,
+      "MaxTokensPerSupply": 1,
+      "BoxTokenChance": 0.0,
+      "BoxHealthChance": 0.5,
+      "PossiblePanelTypes": [
+        "AmmoReloader",
+        
+        "Recycler"
+      ],
+      "TakeChallenge": {
+        "TurretType": "SMG",
+        "EnemyType": "W_Grey_Patrol",
+        "NumTurrets": 0,
+        "NumGuards": 3,
+        "IFFUsed": 1
+      },
+      "HoldPhases": [
+        {
+          "Encryptions": [
+            "Hardened"
+          ],
+          "MinTargets": 3,
+          "MaxTargets": 5,
+          "MinTargetsLimited": 1,
+          "MaxTargetsLimited": 1,
+          "EnemyType": [
+            "W_Grey_Riflewiener"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 2,
+          "MaxEnemies": 2,
+          "MaxEnemiesAlive": 4,
+          "MaxDirections": 1,
+          "SpawnCadence": 20.0,
+          "ScanTime": 30.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        },
+        {
+          "Encryptions": [
+            "Swarm"
+          ],
+          "MinTargets": 3,
+          "MaxTargets": 3,
+          "MinTargetsLimited": 1,
+          "MaxTargetsLimited": 1,
+          "EnemyType": [
+            "W_Grey_Grenadier"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 3,
+          "MaxEnemies": 3,
+          "MaxEnemiesAlive": 6,
+          "MaxDirections": 1,
+          "SpawnCadence": 20.0,
+          "ScanTime": 40.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        }
+      ],
+      "SupplyChallenge": {
+        "TurretType": "SMG",
+        "EnemyType": "W_Grey_Patrol",
+        "NumTurrets": 0,
+        "NumGuards": 3,
+        "IFFUsed": 1
+      },
+      "Patrols": [
+        {
+          "EnemyType": [
+            "W_Grey_Patrol"
+          ],
+          "LeaderType": "W_Grey_Patrol",
+          "PatrolSize": 2,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 1,
+          "PatrolCadence": 90.0,
+          "PatrolCadenceLimited": 120.0,
+          "IFFUsed": 1,
+          "SwarmPlayer": false,
+          "AssualtSpeed": "Walking",
+          "IsBoss": false,
+          "DropChance": 0.65,
+          "DropsHealth": true
+        }
+      ]
+    },
+    {
+      "NumOverrideTokensForHold": 5,
+      "MinSupplyPoints": 3,
+      "MaxSupplyPoints": 3,
+      "MinConstructors": 1,
+      "MaxConstructors": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
+      "MinBoxesSpawned": 2,
+      "MaxBoxesSpawned": 4,
+      "MinTokensPerSupply": 1,
+      "MaxTokensPerSupply": 1,
+      "BoxTokenChance": 0.0,
+      "BoxHealthChance": 0.5,
+      "PossiblePanelTypes": [
+        "AmmoReloader",
+        
+        "Recycler"
+      ],
+      "TakeChallenge": {
+        "TurretType": "SMG",
+        "EnemyType": "W_Grey_Patrol",
+        "NumTurrets": 0,
+        "NumGuards": 4,
+        "IFFUsed": 1
+      },
+      "HoldPhases": [
+        {
+          "Encryptions": [
+            "Hardened"
+          ],
+          "MinTargets": 5,
+          "MaxTargets": 7,
+          "MinTargetsLimited": 1,
+          "MaxTargetsLimited": 1,
+          "EnemyType": [
+            "W_Grey_HeavyRiflewiener"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 2,
+          "MaxEnemies": 2,
+          "MaxEnemiesAlive": 4,
+          "MaxDirections": 2,
+          "SpawnCadence": 20.0,
+          "ScanTime": 20.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        },
+        {
+          "Encryptions": [
+            "Swarm"
+          ],
+          "MinTargets": 3,
+          "MaxTargets": 3,
+          "MinTargetsLimited": 1,
+          "MaxTargetsLimited": 1,
+          "EnemyType": [
+            "W_Grey_HeavyRiflewiener"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 2,
+          "MaxEnemies": 2,
+          "MaxEnemiesAlive": 4,
+          "MaxDirections": 1,
+          "SpawnCadence": 20.0,
+          "ScanTime": 40.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        },
+        {
+          "Encryptions": [
+            "Agile"
+          ],
+          "MinTargets": 3,
+          "MaxTargets": 3,
+          "MinTargetsLimited": 1,
+          "MaxTargetsLimited": 1,
+          "EnemyType": [
+            "W_Grey_HeavyRiflewiener"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 3,
+          "MaxEnemies": 3,
+          "MaxEnemiesAlive": 6,
+          "MaxDirections": 3,
+          "SpawnCadence": 20.0,
+          "ScanTime": 50.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        }
+      ],
+      "SupplyChallenge": {
+        "TurretType": "SMG",
+        "EnemyType": "W_Grey_Patrol",
+        "NumTurrets": 0,
+        "NumGuards": 4,
+        "IFFUsed": 1
+      },
+      "Patrols": [
+        {
+          "EnemyType": [
+            "W_Grey_Patrol"
+          ],
+          "LeaderType": "W_Grey_Patrol",
+          "PatrolSize": 3,
+          "MaxPatrols": 2,
+          "MaxPatrolsLimited": 2,
+          "PatrolCadence": 70.0,
+          "PatrolCadenceLimited": 110.0,
+          "IFFUsed": 1,
+          "SwarmPlayer": false,
+          "AssualtSpeed": "Walking",
+          "IsBoss": false,
+          "DropChance": 0.65,
+          "DropsHealth": true
+        }
+      ]
+    },
+    {
+      "NumOverrideTokensForHold": 5,
+      "MinSupplyPoints": 3,
+      "MaxSupplyPoints": 3,
+      "MinConstructors": 1,
+      "MaxConstructors": 1,
+      "MinPanels": 2,
+      "MaxPanels": 2,
+      "MinBoxesSpawned": 2,
+      "MaxBoxesSpawned": 4,
+      "MinTokensPerSupply": 1,
+      "MaxTokensPerSupply": 1,
+      "BoxTokenChance": 0.0,
+      "BoxHealthChance": 0.5,
+      "PossiblePanelTypes": [
+        "AmmoReloader",
+        "MagDuplicator",
+        "Recycler"
+      ],
+      "TakeChallenge": {
+        "TurretType": "SMG",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 6,
         "IFFUsed": 1
@@ -1808,9 +2117,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Sniper"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1832,9 +2141,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_SpecOps"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_SpecOps",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1851,14 +2160,14 @@
           "Encryptions": [
             "Agile"
           ],
-          "MinTargets": 3,
-          "MaxTargets": 3,
+          "MinTargets": 4,
+          "MaxTargets": 4,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Riflewiener"
+            "W_Grey_HeavyRiflewiener"
           ],
-          "LeaderType": "M_Swat_Heavy",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1874,7 +2183,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 6,
         "IFFUsed": 1
@@ -1882,9 +2191,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_SpecOps"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_SpecOps",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 3,
           "MaxPatrols": 3,
           "MaxPatrolsLimited": 2,
@@ -1900,9 +2209,9 @@
       ]
     },
     {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 2,
-      "MaxSupplyPoints": 2,
+      "NumOverrideTokensForHold": 5,
+      "MinSupplyPoints": 3,
+      "MaxSupplyPoints": 3,
       "MinConstructors": 1,
       "MaxConstructors": 1,
       "MinPanels": 2,
@@ -1915,12 +2224,12 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 8,
         "IFFUsed": 1
@@ -1935,9 +2244,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Markswiener"
+            "W_Grey_Machinegunner"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1959,9 +2268,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Shield"
+            "W_Grey_Machinegunner"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -1983,9 +2292,9 @@
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Breacher"
+            "W_Grey_Flamewiener"
           ],
-          "LeaderType": "M_Swat_Heavy",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -2001,7 +2310,7 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Riflewiener",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
         "NumGuards": 8,
         "IFFUsed": 1
@@ -2009,9 +2318,9 @@
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_Riflewiener"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 3,
           "MaxPatrols": 4,
           "MaxPatrolsLimited": 2,
@@ -2026,8 +2335,8 @@
         }
       ]
     },
-    {
-      "NumOverrideTokensForHold": 2,
+	{
+      "NumOverrideTokensForHold": 5,
       "MinSupplyPoints": 3,
       "MaxSupplyPoints": 3,
       "MinConstructors": 1,
@@ -2042,29 +2351,53 @@
       "BoxHealthChance": 0.5,
       "PossiblePanelTypes": [
         "AmmoReloader",
-        
+        "MagDuplicator",
         "Recycler"
       ],
       "TakeChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Breacher",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
-        "NumGuards": 5,
+        "NumGuards": 8,
         "IFFUsed": 1
       },
       "HoldPhases": [
         {
           "Encryptions": [
-            "Hardened"
+            "Stealth"
           ],
-          "MinTargets": 3,
+          "MinTargets": 7,
+          "MaxTargets": 9,
+          "MinTargetsLimited": 1,
+          "MaxTargetsLimited": 1,
+          "EnemyType": [
+            "W_Grey_Machinegunner"
+          ],
+          "LeaderType": "W_Grey_Officer",
+          "MinEnemies": 3,
+          "MaxEnemies": 3,
+          "MaxEnemiesAlive": 6,
+          "MaxDirections": 3,
+          "SpawnCadence": 20.0,
+          "ScanTime": 25.0,
+          "WarmupTime": 7.0,
+          "IFFUsed": 1,
+          "GrenadeChance": 0.0,
+          "GrenadeType": "Sosiggrenade_Flash",
+          "SwarmPlayer": false
+        },
+        {
+          "Encryptions": [
+            "Agile"
+          ],
+          "MinTargets": 5,
           "MaxTargets": 5,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Shield"
+            "W_Grey_Machinegunner"
           ],
-          "LeaderType": "M_Swat_Shield",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
@@ -2079,45 +2412,21 @@
         },
         {
           "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 7,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_SpecOps"
-          ],
-          "LeaderType": "M_Swat_Shield",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 9,
-          "MaxDirections": 3,
-          "SpawnCadence": 20.0,
-          "ScanTime": 35.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Swarm"
+            "Regenerative"
           ],
           "MinTargets": 1,
-          "MaxTargets": 2,
+          "MaxTargets": 1,
           "MinTargetsLimited": 1,
           "MaxTargetsLimited": 1,
           "EnemyType": [
-            "M_Swat_Heavy"
+            "W_Grey_Flamewiener"
           ],
-          "LeaderType": "M_Swat_Heavy",
+          "LeaderType": "W_Grey_Officer",
           "MinEnemies": 3,
           "MaxEnemies": 3,
           "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
-          "SpawnCadence": 15.0,
+          "MaxDirections": 3,
+          "SpawnCadence": 20.0,
           "ScanTime": 60.0,
           "WarmupTime": 7.0,
           "IFFUsed": 1,
@@ -2128,451 +2437,22 @@
       ],
       "SupplyChallenge": {
         "TurretType": "SMG",
-        "EnemyType": "M_Swat_Breacher",
+        "EnemyType": "W_Grey_Guard",
         "NumTurrets": 0,
-        "NumGuards": 5,
+        "NumGuards": 8,
         "IFFUsed": 1
       },
       "Patrols": [
         {
           "EnemyType": [
-            "M_Swat_Shield"
+            "W_Grey_Patrol"
           ],
-          "LeaderType": "M_Swat_Officer",
+          "LeaderType": "W_Grey_Patrol",
           "PatrolSize": 3,
-          "MaxPatrols": 3,
+          "MaxPatrols": 4,
           "MaxPatrolsLimited": 2,
           "PatrolCadence": 45.0,
           "PatrolCadenceLimited": 90.0,
-          "IFFUsed": 1,
-          "SwarmPlayer": false,
-          "AssualtSpeed": "Walking",
-          "IsBoss": false,
-          "DropChance": 0.65,
-          "DropsHealth": true
-        }
-      ]
-    },
-    {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 3,
-      "MaxSupplyPoints": 3,
-      "MinConstructors": 1,
-      "MaxConstructors": 1,
-      "MinPanels": 2,
-      "MaxPanels": 2,
-      "MinBoxesSpawned": 2,
-      "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
-      "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
-      "PossiblePanelTypes": [
-        "AmmoReloader",
-        "MagDuplicator",
-        "Recycler"
-      ],
-      "TakeChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "M_Swat_Shield",
-        "NumTurrets": 0,
-        "NumGuards": 7,
-        "IFFUsed": 1
-      },
-      "HoldPhases": [
-        {
-          "Encryptions": [
-            "Swarm"
-          ],
-          "MinTargets": 1,
-          "MaxTargets": 2,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "M_Swat_Scout"
-          ],
-          "LeaderType": "M_Swat_Scout",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 9,
-          "MaxDirections": 1,
-          "SpawnCadence": 10.0,
-          "ScanTime": 50.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Hardened"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 5,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "M_Swat_Guard"
-          ],
-          "LeaderType": "M_Swat_Guard",
-          "MinEnemies": 3,
-          "MaxEnemies": 6,
-          "MaxEnemiesAlive": 9,
-          "MaxDirections": 2,
-          "SpawnCadence": 10.0,
-          "ScanTime": 30.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 6,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Shield"
-          ],
-          "LeaderType": "M_Swat_Shield",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 40.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        }
-      ],
-      "SupplyChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "M_Swat_Shield",
-        "NumTurrets": 0,
-        "NumGuards": 7,
-        "IFFUsed": 1
-      },
-      "Patrols": [
-        {
-          "EnemyType": [
-            "M_Swat_SpecOps"
-          ],
-          "LeaderType": "M_Swat_SpecOps",
-          "PatrolSize": 1,
-          "MaxPatrols": 5,
-          "MaxPatrolsLimited": 5,
-          "PatrolCadence": 15.0,
-          "PatrolCadenceLimited": 25.0,
-          "IFFUsed": 1,
-          "SwarmPlayer": false,
-          "AssualtSpeed": "Walking",
-          "IsBoss": false,
-          "DropChance": 0.65,
-          "DropsHealth": true
-        }
-      ]
-    },
-    {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 3,
-      "MaxSupplyPoints": 3,
-      "MinConstructors": 1,
-      "MaxConstructors": 1,
-      "MinPanels": 2,
-      "MaxPanels": 2,
-      "MinBoxesSpawned": 2,
-      "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
-      "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
-      "PossiblePanelTypes": [
-        "AmmoReloader",
-        "MagDuplicator",
-        "Recycler"
-      ],
-      "TakeChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "M_Swat_Markswiener",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 1
-      },
-      "HoldPhases": [
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 9,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Shield"
-          ],
-          "LeaderType": "M_Swat_Shield",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
-          "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Hardened"
-          ],
-          "MinTargets": 9,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "M_Swat_Shield"
-          ],
-          "LeaderType": "M_Swat_Shield",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
-          "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Swarm"
-          ],
-          "MinTargets": 9,
-          "MaxTargets": 9,
-          "MinTargetsLimited": 1,
-          "MaxTargetsLimited": 1,
-          "EnemyType": [
-            "M_Swat_Shield"
-          ],
-          "LeaderType": "M_Swat_Shield",
-          "MinEnemies": 1,
-          "MaxEnemies": 1,
-          "MaxEnemiesAlive": 6,
-          "MaxDirections": 1,
-          "SpawnCadence": 20.0,
-          "ScanTime": 20.0,
-          "WarmupTime": 7.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        }
-      ],
-      "SupplyChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "M_Swat_Markswiener",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 1
-      },
-      "Patrols": [
-        {
-          "EnemyType": [
-            "M_Swat_Breacher"
-          ],
-          "LeaderType": "M_Swat_Heavy",
-          "PatrolSize": 5,
-          "MaxPatrols": 3,
-          "MaxPatrolsLimited": 2,
-          "PatrolCadence": 45.0,
-          "PatrolCadenceLimited": 90.0,
-          "IFFUsed": 1,
-          "SwarmPlayer": false,
-          "AssualtSpeed": "Walking",
-          "IsBoss": false,
-          "DropChance": 0.65,
-          "DropsHealth": true
-        }
-      ]
-    },
-    {
-      "NumOverrideTokensForHold": 2,
-      "MinSupplyPoints": 3,
-      "MaxSupplyPoints": 3,
-      "MinConstructors": 1,
-      "MaxConstructors": 1,
-      "MinPanels": 2,
-      "MaxPanels": 2,
-      "MinBoxesSpawned": 2,
-      "MaxBoxesSpawned": 4,
-      "MinTokensPerSupply": 1,
-      "MaxTokensPerSupply": 1,
-      "BoxTokenChance": 0.0,
-      "BoxHealthChance": 0.5,
-      "PossiblePanelTypes": [
-        "AmmoReloader",
-        "MagDuplicator",
-        "Recycler"
-      ],
-      "TakeChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "M_Swat_Heavy",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 1
-      },
-      "HoldPhases": [
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Guard"
-          ],
-          "LeaderType": "M_Swat_Guard",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Scout"
-          ],
-          "LeaderType": "M_Swat_Scout",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Ranger"
-          ],
-          "LeaderType": "M_Swat_Ranger",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Sniper"
-          ],
-          "LeaderType": "M_Swat_Sniper",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        },
-        {
-          "Encryptions": [
-            "Static"
-          ],
-          "MinTargets": 3,
-          "MaxTargets": 6,
-          "MinTargetsLimited": 3,
-          "MaxTargetsLimited": 3,
-          "EnemyType": [
-            "M_Swat_Officer"
-          ],
-          "LeaderType": "M_Swat_Officer",
-          "MinEnemies": 3,
-          "MaxEnemies": 3,
-          "MaxEnemiesAlive": 3,
-          "MaxDirections": 3,
-          "SpawnCadence": 5.0,
-          "ScanTime": 10.0,
-          "WarmupTime": 4.0,
-          "IFFUsed": 1,
-          "GrenadeChance": 0.0,
-          "GrenadeType": "Sosiggrenade_Flash",
-          "SwarmPlayer": false
-        }
-      ],
-      "SupplyChallenge": {
-        "TurretType": "SMG",
-        "EnemyType": "M_Swat_Heavy",
-        "NumTurrets": 0,
-        "NumGuards": 6,
-        "IFFUsed": 1
-      },
-      "Patrols": [
-        {
-          "EnemyType": [
-            "M_Swat_Sniper"
-          ],
-          "LeaderType": "M_Swat_Sniper",
-          "PatrolSize": 1,
-          "MaxPatrols": 5,
-          "MaxPatrolsLimited": 3,
-          "PatrolCadence": 15.0,
-          "PatrolCadenceLimited": 30.0,
           "IFFUsed": 1,
           "SwarmPlayer": false,
           "AssualtSpeed": "Walking",
