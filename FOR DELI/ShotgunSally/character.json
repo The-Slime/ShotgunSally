@@ -450,9 +450,7 @@
       "IsCompatibleMagazine": false,
       "AutoPopulateGroup": false,
       "ForceSpawnAllSubPools": false,
-      "IDOverride": [
-		"BayonetLeeEnfield"
-	  ],
+      "IDOverride": [],
       "Eras": [
         "WW1",
         "WW2",
