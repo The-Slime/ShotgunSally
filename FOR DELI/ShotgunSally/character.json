@@ -651,7 +651,7 @@
     },
 	{
       "Type": "Firearm",
-      "IconName": "TNH_Icon_shotguns",
+      "IconName": "TNH_Icon_carbine",
       "TokenCost": 3,
       "TokenCostLimited": 3,
       "MinLevelAppears": 2,
