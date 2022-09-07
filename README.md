@@ -18,3 +18,8 @@ v0.8.0 - Changed starting weapon to IZh18 12g Short.\
 Opened up equipment pools to make more weapons spawn, hopefully including many mods as well.\
 Enumerated break action shop pool to five-ish good options to prevent single shot weapons from spawning, which I consider a stopgap solution and hope to properly fix soon.\
 Blacklisted swags because it's supposed to be a difficulty curve not a difficulty flat (and also another variant of that useless 23mm gas shell.)
+
+v0.9.0 - Removed lever actions (small pool and hard to reload), moved tube pumps to their slot and added magfed pumps where tube pumps were.\
+Switched enemies to WW2 theme because body armor of any kind makes most shotgun calibers very hard to use. And now they can have flamethrowers, so yeah.\
+Added bayonet equipment pool.\
+P6-12 now included in magfed automatic pool.
