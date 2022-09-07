@@ -448,7 +448,7 @@
       "SpawnMagAndClip": false,
       "BespokeAttachmentChance": 0.5,
       "IsCompatibleMagazine": false,
-      "AutoPopulateGroup": false,
+      "AutoPopulateGroup": true,
       "ForceSpawnAllSubPools": false,
       "IDOverride": [],
       "Eras": [
