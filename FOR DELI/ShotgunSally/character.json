@@ -48,7 +48,7 @@
     "SpawnMagAndClip": false,
     "BespokeAttachmentChance": 0.0,
     "IsCompatibleMagazine": false,
-    "AutoPopulateGroup": false,
+    "AutoPopulateGroup": true,
     "ForceSpawnAllSubPools": false,
     "IDOverride": [],
     "Eras": [],
@@ -891,7 +891,7 @@
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
-        "AutoPopulateGroup": true,
+        "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
 			"RailedBarrelExtenderSingle"
@@ -1083,7 +1083,7 @@
         "SpawnMagAndClip": false,
         "BespokeAttachmentChance": 0.5,
         "IsCompatibleMagazine": false,
-        "AutoPopulateGroup": true,
+        "AutoPopulateGroup": false,
         "ForceSpawnAllSubPools": false,
         "IDOverride": [
 			"PinnedGrenadeXM84"
