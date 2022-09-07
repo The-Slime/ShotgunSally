@@ -28,13 +28,10 @@
   ],
   "ValidAmmoSets": [
 	"Real",
-	"GroundedFictional",
 	"MeatFortress"
   ],
   "GlobalAmmoBlacklist": [
 	"23x75mmR_CSGas",
-	"12GaugeShellSWAG12FA",
-	"12GaugeShellSWAG12HE",
 	"ftw.ammo.23Smoke"
   ],
   "MagazineBlacklist": [],
