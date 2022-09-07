@@ -651,11 +651,11 @@
     },
 	{
       "Type": "Firearm",
-      "IconName": "TNH_Icon_LeverActionShotgunIcon",
+      "IconName": "TNH_Icon_shotguns",
       "TokenCost": 3,
       "TokenCostLimited": 3,
-      "MinLevelAppears": 1,
-      "MaxLevelAppears": 2,
+      "MinLevelAppears": 2,
+      "MaxLevelAppears": 3,
       "SpawnsInSmallCase": false,
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
@@ -681,12 +681,12 @@
         ],
         "Sizes": [],
         "Actions": [
-		"LeverAction"
+		"PumpAction"
 		],
         "Modes": [],
         "ExcludedModes": [],
         "FeedOptions": [
-			"InternalMag"
+			"BoxMag"
 		],
         "MountsAvailable": [],
         "RoundPowers": [
@@ -708,8 +708,8 @@
       "IconName": "TNH_Icon_tube_fed",
       "TokenCost": 4,
       "TokenCostLimited": 4,
-      "MinLevelAppears": 2,
-      "MaxLevelAppears": 3,
+      "MinLevelAppears": 1,
+      "MaxLevelAppears": 2,
       "SpawnsInSmallCase": false,
       "SpawnsInLargeCase": false,
       "PrimaryGroup": {
