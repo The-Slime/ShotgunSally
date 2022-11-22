@@ -777,13 +777,22 @@
         "ForceSpawnAllSubPools": false,
         "IDOverride": [],
         "Eras": [],
-        "Sets": [],
+        "Sets": [
+			"Real",
+			"GroundedFictional",
+			"SciFiFictional",
+			"Meme",
+			"Holiday",
+			"TNH"
+		],
         "Sizes": [],
         "Actions": [
 		"Automatic",
 		"Revolver"
 		],
-        "Modes": [],
+        "Modes": [
+			"SemiAuto"
+		],
         "ExcludedModes": [],
         "FeedOptions": [
 		"InternalMag"
@@ -835,7 +844,9 @@
 		"Automatic",
 		"Revolver"
 		],
-        "Modes": [],
+        "Modes": [
+			"FullAuto"
+		],
         "ExcludedModes": [],
         "FeedOptions": [
 		"BoxMag"

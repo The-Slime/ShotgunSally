@@ -24,3 +24,5 @@ Switched enemies to WW2 theme because body armor of any kind makes most shotgun 
 Added bayonet equipment pool.\
 P6-12 now included in magfed automatic pool.\
 Removed GroundedFictional ammo type due to swags slipping through. All you really lost is Triple Hit and would you even use that?
+
+v1.1.0 - Correctly filtered MF Scatterguns as well as guns with the incorrect firing modes from the later pools. I had no idea Modes and ExcludedModes existed. What did I think was going to happen?
